@@ -10,6 +10,6 @@ describe('Testing task functions', () => {
   });
 
   test('taskNext should return the correct combined string', () => {
-    expect(taskNext()).toBe('But sometimes lets is okay');
+    expect(taskNext()).toBe('But sometimes let is okay');
   });
 });
