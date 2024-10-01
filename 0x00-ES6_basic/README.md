@@ -1,1 +1,1 @@
-EC6 BASICS REPO 
+# **Backend Specialization - ES6 basics**
