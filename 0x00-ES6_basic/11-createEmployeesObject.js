@@ -3,6 +3,7 @@
 // departmentName (String)
 // employees (Array of Strings)
 export default function createEmployeesObject(departmentName, employees) {
+    return 
 
 }
 // The function should return an object with the following format:
