@@ -1,7 +1,6 @@
 # **Backend Specialization - JavaScript**
 
 [![Repo size](https://img.shields.io/github/repo-size/HoudaAbdellaoui1/alx-backend-javascript)](https://github.com/HoudaAbdellaoui1/alx-backend-javascript)
-[![Repo License](https://img.shields.io/github/license/HoudaAbdellaoui1/alx-backend-javascript)](LICENSE)
 [![Latest Commit](https://img.shields.io/github/last-commit/HoudaAbdellaoui1/alx-backend-javascript)](https://github.com/HoudaAbdellaoui1/alx-backend-javascript/commits/main)
 
 This repository contains all the project codes for the **Backend Specialization - JavaScript**.
