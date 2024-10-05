@@ -2,8 +2,17 @@ const isArrayOfStrings = (arr) => Array.isArray(arr) && arr.every((item) => type
 
 export default class HolbertonCourse {
   constructor(name, length, students) {
+    if (typeof val !== 'string') {
+      throw new TypeError('Name must be a string');
+    }
     this._name = name;
+    if (typeof val !== 'number') {
+      throw new TypeError('Length must be a number');
+    }
     this._length = length;
+    if (!isArrayOfStrings(val)) {
+      throw new TypeError('Students must be an array of strings');
+    }
     this._students = students;
   }
 
