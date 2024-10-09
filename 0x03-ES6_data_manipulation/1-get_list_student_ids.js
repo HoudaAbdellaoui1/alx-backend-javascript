@@ -3,9 +3,5 @@ export default function getListStudentIds(array) {
     return [];
   }
 
-  const ids = [];
-  array.forEach((obj) => {
-    ids.push(obj.id);
-  });
-  return ids;
+  return array.map((obj) => obj.id);
 }
