@@ -19,13 +19,13 @@ export default class Airport {
     return this._name;
   }
 
-  //   toString() {
-  //     return `Airport [${this.code}] {_name: '${this.name}', _code: '${this.code}'}}`;
-  //   }
+//   toString() {
+//     return `Airport [${this.code}] {_name: '${this.name}', _code: '${this.code}'}}`;
+//   }
 
-  //   toString() {
-  //     return this.toString();
-  //   }
+//   toString() {
+//     return this.toString();
+//   }
 
   valueOf() {
     return this._code; // Return the airport code
