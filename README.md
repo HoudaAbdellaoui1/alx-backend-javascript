@@ -14,3 +14,4 @@ This repository contains all the project codes for the **Backend Specialization 
 | **0x02-ES6_classes**          | ES6 Classes - Object-Oriented Programming (OOP) with JavaScript ES6 |
 | **0x03-ES6_data_manipulation**| ES6 Data Manipulation - Working with data in JavaScript ES6 |
 | **0x04-Typescript**           | TypeScript - Introduction to TypeScript        |
+| **0x05-Node_JS_basic**           | NodeJS - Introduction to NodeJS & Express        |
