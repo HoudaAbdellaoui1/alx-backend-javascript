@@ -1,14 +1,7 @@
+const { expect } = require('chai');
 const calculateNumber = require('./1-calcul');
 
 describe('calculateNumber', () => {
-    let expect;
-
-    before(async () => {
-        // Dynamically import chai's expect function
-        const { expect: chaiExpect } = await import('chai');
-        expect = chaiExpect;
-    });
-
     describe('SUM', () => {
         it('should correctly sum two rounded numbers', () => {
             expect(calculateNumber('SUM', 1.4, 2.6)).to.equal(4); // 1 + 3
